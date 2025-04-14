@@ -14,8 +14,8 @@ Besides all that have good grip over data Analysis using multiple programming la
 ## 🔧 Technologies & Tools
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,jquery,git,github,js,html,css,react,nextjs,nodejs,php,postman,py,r,tailwind,bootstrap,arduino,spring,&perline=11)](https://skillicons.dev)
-</div>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,php,js,html,css,bootstrap,jquery,mysql,postman,mongodb,express,react,nodejs,tailwind,ts,flask,supabase,docker,vercel,&perline=11)](https://skillicons.dev)
+</div> 
 <!-- Add more badges for your other skills -->
 
 ## 📊Stats
