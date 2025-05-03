@@ -7,9 +7,8 @@
 ⚡ Fun fact I like anime and I have caught up with one piece three times   
 
 ## 🌟Small Summary of me 
-<p>I'm a passionate Learner from India.Innovative <b>Java and Web Developer with 2 years of experience</b> in building impactful and user-friendly projects. 
-Specializes in back-end technologies and passionate about cutting-edge development techniques in both<b> hardware and software</b>.
-Besides all that have good grip over data Analysis using multiple programming languages and tools such as Jamovi and tableau too </p>
+<p>Motivated and hardworking engineering student with a strong interest in AI, ML, and full-stack development. Eager to explore new technologies, build real-world projects, and continuously learn. Known for critical thinking, team spirit, and a problem-solving mindset. Passionate about writing clean, understandable code and always ready to take on new challenges and grow as a developer.
+</p>
 
 ## 🔧 Technologies & Tools
 <div align="center">
@@ -57,20 +56,45 @@ Besides all that have good grip over data Analysis using multiple programming la
 
 ## 🚀 My Projects
 
-- [Python VLAB](https://github.com/aryan083/P-ython-project)
-- [Exam Dashboard](https://github.com/aryan083/for_JAVA_END_SEM-2_PROJECT)
+### [Python VLAB](https://github.com/aryan083/P-ython-project)  
+**Python, Jupyter Notebook, Matplotlib, Plotly, Numpy, Pandas, Scipy, py3js**  
+- Built an immersive 3D virtual lab for signal waveform and modulation technique visualization.  
+- Generated interactive 3D graphs and simulations for signal processing concepts.
+
+### [Exam Dashboard](https://github.com/aryan083/for_JAVA_END_SEM-2_PROJECT)  
+**Java, Swing/AWT, OOP, File I/O, Threads, GUI, Event Handling**  
+- Simulated a complete exam environment using Java.  
+- Implemented secure login, multithreaded behavior simulation, real-time student progress tracking, and result storage via file system.
+
+### [Student Project Management System](https://github.com/aryan083/IWT_PROJECT)  
+**HTML, CSS, JavaScript, PHP, MySQL, Postman**  
+- Web-based platform for university project management and collaboration among students, faculty, and parents.  
+- Real-time tracking and standardized reporting for academic growth.
+
+### [Emojifier](https://huggingface.co/spaces/aryan083/Emojifier)  
+**Python, TensorFlow, cv2, Flask, HTML, Bootstrap, JavaScript, Docker**  
+- Translates facial expressions into emojis using ML and computer vision.  
+- Demonstrates facial recognition and model evolution from SVM to CNN.
+
+### [BookTube](https://booktube-opal.vercel.app/)  
+**ReactJS, TailwindCSS, Flask, Supabase, RAG, Google Gemini API, Unsplash API**  
+- Interactive learning platform that generates academic articles based on user preferences.  
+- Uses RAG for knowledge extraction and significantly reduces processing time for PDFs.
+- Cutting down PDF text extraction to 10 minutes from 3 hours and optimizing database calls for better platform
+responsiveness.
+
+
 
 ## 💡 A Quote:
 <div align="center"> 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
-<!-- Custom section for additional information -->
 <details>
   <summary>⚡ More about me</summary>
   <p>
-    Hello Again! I'm Aryan Mahida currently a student at Marwadi University. A enthusiastic learner Pursuing my <b> bachelor in `Infomation and Communication Technology`</b>.
-    Currently I'm in my third year
+    Hello Again! I'm Aryan Mahida currently a student at Marwadi University. A enthusiastic learner Pursuing my <b> bachelor in Infomation and Communication Technology</b>.
+    Currently I'm in my third year. I'm all about learning new technolgies and growing as a good engineer.
   </p>
   <!-- Add more details about yourself -->
 
@@ -78,7 +102,6 @@ Besides all that have good grip over data Analysis using multiple programming la
 
 
 
-<!-- Add more social media badges or customize as needed -->
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/aryan-mahida-982749251">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
