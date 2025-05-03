@@ -3,7 +3,7 @@
 
 🔭 Always working on self improvement and willing to help helping others<br>
 🤝 I’m currently collaborating on Ticketing System<br>
-🌱 I’m currently learning Laravel<br>✉️ Mail me at aryanmahida2@gmail.com<br>
+🌱 I’m currently learning MERN and dokcer<br>✉️ Mail me at aryanmahida2@gmail.com<br>
 ⚡ Fun fact I like anime and I have caught up with one piece three times   
 
 ## 🌟Small Summary of me 
