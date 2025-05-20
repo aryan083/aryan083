@@ -12,10 +12,9 @@
 
 ## 🔧 Technologies & Tools
 <div align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,php,js,html,css,mysql,git,github,bash,postman,mongodb,express,react,nodejs,ts,tailwind,flask,supabase,docker,vercel,docker,vercel,neovim&perline=13)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,php,js,html,css,mysql,git,github,bash,postman,bootstrap,jquery,mongodb,express,react,nodejs,ts,tailwind,flask,supabase,docker,vercel,neovim&perline=13)](https://skillicons.dev)
 </div> 
-<!-- Add more badges for your other skills -->
 
 ## 📊Stats
 
@@ -56,6 +55,31 @@
 
 ## 🚀 My Projects
 
+
+### [SkillFit Resume](https://awt-project-zeta.vercel.app/)
+**ReactJS, TailwindCSS, Flask, Supabase, TF-IDF, NLP, Rapid API**
+- Developed an AI-powered resume customization system using the SERN stack and Python-based NLP to match student resumes with job descriptions.
+- Implemented intelligent keyword extraction and content mapping to generate ATS-optimized, role-specific resumes from a master resume.
+- Built a responsive web interface enabling real-time resume generation, editing, and download to streamline campus placement applications.
+
+
+### [BookTube](https://booktube-opal.vercel.app/)  
+**ReactJS, TailwindCSS, Flask, Supabase, RAG, Google Gemini API, Unsplash API**  
+- Interactive learning platform that generates academic articles based on user preferences.  
+- Uses RAG for knowledge extraction and significantly reduces processing time for PDFs.
+- Cutting down PDF text extraction to 10 minutes from 3 hours and optimizing database calls for better platform
+responsiveness.
+
+### [Emojifier](https://huggingface.co/spaces/aryan083/Emojifier)  
+**Python, TensorFlow, cv2, Flask, HTML, Bootstrap, JavaScript, Docker**  
+- Translates facial expressions into emojis using ML and computer vision.  
+- Demonstrates facial recognition and model evolution from SVM to CNN.
+
+### [Student Project Management System](https://github.com/aryan083/IWT_PROJECT)  
+**HTML, CSS, JavaScript, PHP, MySQL, Postman**  
+- Web-based platform for university project management and collaboration among students, faculty, and parents.  
+- Real-time tracking and standardized reporting for academic growth.
+
 ### [Python VLAB](https://github.com/aryan083/P-ython-project)  
 **Python, Jupyter Notebook, Matplotlib, Plotly, Numpy, Pandas, Scipy, py3js**  
 - Built an immersive 3D virtual lab for signal waveform and modulation technique visualization.  
@@ -66,22 +90,6 @@
 - Simulated a complete exam environment using Java.  
 - Implemented secure login, multithreaded behavior simulation, real-time student progress tracking, and result storage via file system.
 
-### [Student Project Management System](https://github.com/aryan083/IWT_PROJECT)  
-**HTML, CSS, JavaScript, PHP, MySQL, Postman**  
-- Web-based platform for university project management and collaboration among students, faculty, and parents.  
-- Real-time tracking and standardized reporting for academic growth.
-
-### [Emojifier](https://huggingface.co/spaces/aryan083/Emojifier)  
-**Python, TensorFlow, cv2, Flask, HTML, Bootstrap, JavaScript, Docker**  
-- Translates facial expressions into emojis using ML and computer vision.  
-- Demonstrates facial recognition and model evolution from SVM to CNN.
-
-### [BookTube](https://booktube-opal.vercel.app/)  
-**ReactJS, TailwindCSS, Flask, Supabase, RAG, Google Gemini API, Unsplash API**  
-- Interactive learning platform that generates academic articles based on user preferences.  
-- Uses RAG for knowledge extraction and significantly reduces processing time for PDFs.
-- Cutting down PDF text extraction to 10 minutes from 3 hours and optimizing database calls for better platform
-responsiveness.
 
 
 
