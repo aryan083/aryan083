@@ -96,8 +96,6 @@ responsiveness.
     Hello Again! I'm Aryan Mahida currently a student at Marwadi University. A enthusiastic learner Pursuing my <b> bachelor in Infomation and Communication Technology</b>.
     Currently I'm in my fourth year. I'm all about learning new technolgies and growing as a good engineer.
   </p>
-  <!-- Add more details about yourself -->
-
 </details>
  -->
 
