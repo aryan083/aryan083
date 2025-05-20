@@ -102,13 +102,13 @@ responsiveness.
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/aryan-mahida-982749251">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/ary.an_mahida">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCcGg7DNb-1PXQaXUsyxuc-Q" >
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.github.com/aryan083" >
-  <img src="https://img.shields.io/github/followers/aryan083?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
+  <img src="https://img.shields.io/github/followers/aryan083?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
 
