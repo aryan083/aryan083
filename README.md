@@ -2,12 +2,12 @@
 ## 👨‍💻 About me 
 
 🔭 Always working on self improvement and willing to help helping others<br>
-🤝 I’m currently collaborating on Ticketing System<br>
+🤝 I’m open to colabratation<br>
 🌱 I’m currently learning MERN and dokcer<br>✉️ Mail me at aryanmahida2@gmail.com<br>
 ⚡ Fun fact I like anime and I have caught up with one piece three times   
 
 ## 🌟Small Summary of me 
-<p>Motivated and hardworking engineering student with a strong interest in AI, ML, and full-stack development. Eager to explore new technologies, build real-world projects, and continuously learn. Known for critical thinking, team spirit, and a problem-solving mindset. Passionate about writing clean, understandable code and always ready to take on new challenges and grow as a developer.
+<p>Motivated and hardworking engineering student with a strong interest in AI, ML, and full-stack development. Eager to explore new technologies, build real-world projects, and continuously learn. Known for critical thinking, team spirit, and a problem-solving mindset. Passionate about writing clean, understandable code and always ready to take on new challenges and grow as a Software Engineer
 </p>
 
 ## 🔧 Technologies & Tools
