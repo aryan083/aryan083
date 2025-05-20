@@ -13,7 +13,7 @@
 ## 🔧 Technologies & Tools
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,php,js,html,css,bootstrap,git,github,jquery,mysql,postman,mongodb,express,react,nodejs,tailwind,ts,flask,supabase,docker,vercel,bash,neovim&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,php,js,html,css,mysql,git,github,bash,postman,mongodb,express,react,nodejs,ts,tailwind,flask,supabase,docker,vercel,docker,vercel,neovim&perline=13)](https://skillicons.dev)
 </div> 
 <!-- Add more badges for your other skills -->
 
